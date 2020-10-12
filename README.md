@@ -101,7 +101,8 @@ List of custom Onani CSS
 }
   ```
 </details>
-## Ligh Themes
+
+## Light Themes
 
 <details>
   <summary>Bread & Wine</summary>
