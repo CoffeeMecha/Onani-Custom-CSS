@@ -4,26 +4,26 @@ List of custom Onani CSS
 <details>
   <summary>Lavender Quartz</summary>
   ```css
-:root {
-    --logo-colour-1: #ffafc7;
-    --logo-colour-2: #beeaf3;
-    --ui-colour: #ffafc7;
-    --ui-colour-2: #74d7ec;
-    --ui-back-colour: #fbf9f5;
-    --ui-box-shadow: #ffafc7;
-    --ui-item-hover: #74d7ec1a;
-    --ui-item-active: #74d7ec59;
-    --ui-scrollbar-foreg: #ffafc7;
-    --ui-scrollbar-backg: #74d7ec;
-    --input-slider: #1d1d1d;
-    --input-focus: #0f0f0f;
-    --tag-banned: #ff00001a;
-    --tag-general: #d61212;
-    --tag-artist: #3c790a;
-    --tag-character: #00fafa;
-    --tag-copyright: #490b9b;
-    --tag-meta: #757575;
-}
+    :root {
+        --logo-colour-1: #ffafc7;
+        --logo-colour-2: #beeaf3;
+        --ui-colour: #ffafc7;
+        --ui-colour-2: #74d7ec;
+        --ui-back-colour: #fbf9f5;
+        --ui-box-shadow: #ffafc7;
+        --ui-item-hover: #74d7ec1a;
+        --ui-item-active: #74d7ec59;
+        --ui-scrollbar-foreg: #ffafc7;
+        --ui-scrollbar-backg: #74d7ec;
+        --input-slider: #1d1d1d;
+        --input-focus: #0f0f0f;
+        --tag-banned: #ff00001a;
+        --tag-general: #d61212;
+        --tag-artist: #3c790a;
+        --tag-character: #00fafa;
+        --tag-copyright: #490b9b;
+        --tag-meta: #757575;
+    }
   ```
 </details>
 <details>
